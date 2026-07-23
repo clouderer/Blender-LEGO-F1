@@ -1,5 +1,6 @@
 # LEGO F1 car
 F1 car in the lego style modeled in blender.
+This was my very first project in blender - this project took about 50 hours (trial and error time included). 
 
 <img width="1920" height="1080" alt="result" src="https://github.com/user-attachments/assets/86ed38e7-b1d3-47d1-b3ad-f3611caad304" />
 
